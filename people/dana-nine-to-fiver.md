@@ -1,6 +1,6 @@
 # Persona: Dana
 
-**Slug:** `personas/dana-nine-to-fiver.md`
+**Slug:** `people/dana-nine-to-fiver.md`
 **Role:** Full-time employed developer (nine-to-fiver)
 **Panel tags:** ticket-buyer
 

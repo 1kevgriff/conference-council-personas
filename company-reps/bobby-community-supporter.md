@@ -1,6 +1,6 @@
 # Persona: Bobby
 
-**Slug:** `personas/bobby-community-supporter.md`
+**Slug:** `company-reps/bobby-community-supporter.md`
 **Role:** Owner of a small local business who backs community events
 **Panel tags:** sponsor · small-budget
 

@@ -1,6 +1,6 @@
 # Persona: Rick
 
-**Slug:** `personas/rick-staffing-firm.md`
+**Slug:** `company-reps/rick-staffing-firm.md`
 **Role:** Technical recruiter at a staffing agency
 **Panel tags:** sponsor · hiring
 

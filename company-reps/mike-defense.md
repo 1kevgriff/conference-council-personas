@@ -1,6 +1,6 @@
 # Persona: Mike
 
-**Slug:** `personas/mike-defense.md`
+**Slug:** `company-reps/mike-defense.md`
 **Role:** Engineering manager at a defense contractor or government-connected regional firm
 **Panel tags:** sponsor · big-ticket · hiring
 

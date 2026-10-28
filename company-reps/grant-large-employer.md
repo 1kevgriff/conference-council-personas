@@ -1,6 +1,6 @@
 # Persona: Grant
 
-**Slug:** `personas/grant-large-employer.md`
+**Slug:** `company-reps/grant-large-employer.md`
 **Role:** Senior engineering manager at a large regional employer
 **Panel tags:** sponsor · big-ticket · hiring
 

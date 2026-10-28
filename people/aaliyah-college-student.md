@@ -1,6 +1,6 @@
 # Persona: Aaliyah
 
-**Slug:** `personas/aaliyah-college-student.md`
+**Slug:** `people/aaliyah-college-student.md`
 **Role:** Adult college student in a computing program
 **Panel tags:** ticket-buyer
 

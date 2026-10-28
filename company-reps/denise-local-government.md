@@ -1,6 +1,6 @@
 # Persona: Denise
 
-**Slug:** `personas/denise-local-government.md`
+**Slug:** `company-reps/denise-local-government.md`
 **Role:** Business-development manager in a city economic-development office
 **Panel tags:** sponsor · big-ticket
 

@@ -4,6 +4,13 @@ A reusable panel of fictional stakeholders for pressure-testing conference mater
 
 These personas started as planning archetypes for a regional one-day developer conference. They are written to be event-agnostic so other organizers can reuse and extend them. They are not real people or organizations.
 
+## Folders
+
+| Folder | Who belongs here |
+| --- | --- |
+| [people/](people/) | Individual attendees and ticket buyers paying their own way (students, freelancers, job seekers, employed developers buying a seat) |
+| [company-reps/](company-reps/) | People representing an employer: sponsors, hiring managers, recruiters, marketing/sales, vendor reps, government and defense buyers |
+
 ## Why a council
 
 One organizer voice misses objections. A council of simulated buyers and sponsors will argue with your draft the way a real room would: price, approval lag, list-sharing, ROI, public-benefit rules, unbilled days, and "why this region."
@@ -12,29 +19,29 @@ Use them with any LLM. Paste a persona's prompt block, attach your draft, and as
 
 ## Personas
 
-### Ticket buyers
+### people/
 
 | Persona | Role | File |
 | --- | --- | --- |
-| Sam | Independent freelancer / solo consultant | [sam-independent.md](personas/sam-independent.md) |
-| Dana | Full-time employed developer (nine-to-fiver) | [dana-nine-to-fiver.md](personas/dana-nine-to-fiver.md) |
-| Marcus | Developer between jobs | [marcus-between-jobs.md](personas/marcus-between-jobs.md) |
-| Aaliyah | Adult college student in a computing program | [aaliyah-college-student.md](personas/aaliyah-college-student.md) |
+| Sam | Independent freelancer / solo consultant | [sam-independent.md](people/sam-independent.md) |
+| Dana | Full-time employed developer (nine-to-fiver) | [dana-nine-to-fiver.md](people/dana-nine-to-fiver.md) |
+| Marcus | Developer between jobs | [marcus-between-jobs.md](people/marcus-between-jobs.md) |
+| Aaliyah | Adult college student in a computing program | [aaliyah-college-student.md](people/aaliyah-college-student.md) |
 
-### Sponsors
+### company-reps/
 
 | Persona | Role | File |
 | --- | --- | --- |
-| Connor | Partner at a local consulting firm | [connor-consulting-firm.md](personas/connor-consulting-firm.md) |
-| Priya | Engineering lead at a regional product company | [priya-product-company.md](personas/priya-product-company.md) |
-| Rick | Technical recruiter at a staffing agency | [rick-staffing-firm.md](personas/rick-staffing-firm.md) |
-| Helen | IT director at a regional hospital system | [helen-health-care.md](personas/helen-health-care.md) |
-| Mike | Engineering manager at a defense contractor | [mike-defense.md](personas/mike-defense.md) |
-| Denise | Economic-development manager (local government) | [denise-local-government.md](personas/denise-local-government.md) |
-| Jordan | DevRel manager at a national developer-tool vendor | [jordan-developer-tool-vendor.md](personas/jordan-developer-tool-vendor.md) |
-| Grant | Senior eng manager at a large regional employer | [grant-large-employer.md](personas/grant-large-employer.md) |
-| Tamara | Outreach coordinator at an education / workforce program | [tamara-education.md](personas/tamara-education.md) |
-| Bobby | Small local business owner / community supporter | [bobby-community-supporter.md](personas/bobby-community-supporter.md) |
+| Connor | Partner at a local consulting firm | [connor-consulting-firm.md](company-reps/connor-consulting-firm.md) |
+| Priya | Engineering lead at a regional product company | [priya-product-company.md](company-reps/priya-product-company.md) |
+| Rick | Technical recruiter at a staffing agency | [rick-staffing-firm.md](company-reps/rick-staffing-firm.md) |
+| Helen | IT director at a regional hospital system | [helen-health-care.md](company-reps/helen-health-care.md) |
+| Mike | Engineering manager at a defense contractor | [mike-defense.md](company-reps/mike-defense.md) |
+| Denise | Economic-development manager (local government) | [denise-local-government.md](company-reps/denise-local-government.md) |
+| Jordan | DevRel manager at a national developer-tool vendor | [jordan-developer-tool-vendor.md](company-reps/jordan-developer-tool-vendor.md) |
+| Grant | Senior eng manager at a large regional employer | [grant-large-employer.md](company-reps/grant-large-employer.md) |
+| Tamara | Outreach coordinator at an education / workforce program | [tamara-education.md](company-reps/tamara-education.md) |
+| Bobby | Small local business owner / community supporter | [bobby-community-supporter.md](company-reps/bobby-community-supporter.md) |
 
 ## Suggested panels
 
@@ -81,6 +88,7 @@ Keep answers in character. Discard anything that invents real company or city fa
 
 New personas should follow [TEMPLATE.md](TEMPLATE.md):
 
+- Choose `people/` or `company-reps/` (see Folders above)
 - Role and short background
 - Budget and decision power
 - What they care about
@@ -91,11 +99,13 @@ New personas should follow [TEMPLATE.md](TEMPLATE.md):
 ## Contributing
 
 1. Fork the repo (or open a branch).
-2. Copy `TEMPLATE.md` to `personas/<slug>.md`.
+2. Copy `TEMPLATE.md` into the right folder:
+   - `people/<slug>.md` for individual attendees and self-pay ticket buyers
+   - `company-reps/<slug>.md` for people representing an employer (sponsors, hiring managers, recruiters, vendor reps, government or defense buyers)
 3. Keep the persona fictional. Do not base a file on a real named person or a real employer's private details.
 4. Stay event-agnostic. A short note that the set began at a regional developer conference is fine; do not hard-code one event's prices, package names, or internal deals.
 5. No private data: no real emails, phone numbers, home addresses, unpublished sponsor pipelines, or internal repo paths.
-6. Open a pull request. Say which panel(s) the persona belongs on, if any.
+6. Open a pull request. Say which folder and which panel(s) the persona belongs on, if any.
 
 ## License
 

@@ -1,6 +1,6 @@
 # Persona: Sam
 
-**Slug:** `personas/sam-independent.md`
+**Slug:** `people/sam-independent.md`
 **Role:** Independent freelancer or solo consultant
 **Panel tags:** ticket-buyer
 

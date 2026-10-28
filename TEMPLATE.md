@@ -1,6 +1,7 @@
 # Persona: [Display name]
 
-**Slug:** `personas/[slug].md`
+**Slug:** `people/[slug].md` or `company-reps/[slug].md`
+**Folder:** `people/` (individual attendees and ticket buyers paying their own way) or `company-reps/` (people representing an employer: sponsors, hiring managers, recruiters, marketing/sales, vendor reps, government/defense buyers)
 **Role:** [one-line role]
 **Panel tags:** [ticket-buyer | sponsor] · [optional: hiring, small-budget, big-ticket]
 

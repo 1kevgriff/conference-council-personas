@@ -1,6 +1,6 @@
 # Persona: Marcus
 
-**Slug:** `personas/marcus-between-jobs.md`
+**Slug:** `people/marcus-between-jobs.md`
 **Role:** Developer between jobs
 **Panel tags:** ticket-buyer · hiring
 

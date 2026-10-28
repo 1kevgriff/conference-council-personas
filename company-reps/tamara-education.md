@@ -1,6 +1,6 @@
 # Persona: Tamara
 
-**Slug:** `personas/tamara-education.md`
+**Slug:** `company-reps/tamara-education.md`
 **Role:** Outreach and partnerships coordinator at an education or workforce program
 **Panel tags:** sponsor · ticket-buyer · small-budget
 

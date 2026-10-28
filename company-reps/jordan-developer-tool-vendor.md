@@ -1,6 +1,6 @@
 # Persona: Jordan
 
-**Slug:** `personas/jordan-developer-tool-vendor.md`
+**Slug:** `company-reps/jordan-developer-tool-vendor.md`
 **Role:** Developer-relations manager at a national developer-tool vendor
 **Panel tags:** sponsor · small-budget · big-ticket
 

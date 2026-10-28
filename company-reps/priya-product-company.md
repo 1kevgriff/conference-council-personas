@@ -1,6 +1,6 @@
 # Persona: Priya
 
-**Slug:** `personas/priya-product-company.md`
+**Slug:** `company-reps/priya-product-company.md`
 **Role:** Engineering lead at a regional product company
 **Panel tags:** sponsor · small-budget · hiring
 

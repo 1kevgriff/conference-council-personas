@@ -1,6 +1,6 @@
 # Persona: Helen
 
-**Slug:** `personas/helen-health-care.md`
+**Slug:** `company-reps/helen-health-care.md`
 **Role:** IT director at a regional hospital system
 **Panel tags:** sponsor · big-ticket
 

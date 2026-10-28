@@ -1,6 +1,6 @@
 # Persona: Connor
 
-**Slug:** `personas/connor-consulting-firm.md`
+**Slug:** `company-reps/connor-consulting-firm.md`
 **Role:** Partner at a local or regional software and IT consulting firm
 **Panel tags:** sponsor · small-budget
 
